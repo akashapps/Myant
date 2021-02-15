@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Myant</string>
+    <string name="temp">Temperature: %1$s</string>
+    <string name="humidity">Humidity: %1$s</string>
+    <string name="temperature">Temperature : </string>
+    <string name="feels_like">Feels Like :</string>
+    <string name="min_temperature">Min Temperature :</string>
+    <string name="max_temperature">Max Temperature :</string>
+    <string name="pressure">Pressure :</string>
+    <string name="wind_speed">Wind Speed :</string>
+    <string name="wind_direction">Wind Direction :</string>
+</resources>
